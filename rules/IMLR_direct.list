@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,weibo
 DOMAIN-KEYWORD,acfun
+DOMAIN-KEYWORD,olelive
 DOMAIN-KEYWORD,kwimgs
 DOMAIN-SUFFIX,miaopai.com
 DOMAIN-SUFFIX,imlr.link
@@ -15,6 +16,7 @@ DOMAIN-SUFFIX,govt.nz
 DOMAIN-SUFFIX,live.v1.mk
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,ugdtimg.com
+DOMAIN,image.baidu.com
 KEYWORD,gdtimg
 IP-CIDR,144.34.213.34/32,no-resolve
 IP-CIDR,23.53.228.33/32,no-resolve
