@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,live.v1.mk
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN,image.baidu.com
+DOMAIN,cn.imlr.link
 DOMAIN,bttreleases.llo.ai
 KEYWORD,gdtimg
 IP-CIDR,144.34.213.34/32,no-resolve
