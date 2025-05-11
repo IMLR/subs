@@ -18,9 +18,3 @@ DOMAIN-SUFFIX,adobedc.demdex.net
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,ims-prod06.adobelogin.com
 DOMAIN-SUFFIX,api.account.adobe.com
-DOMAIN,gdt.qq.com
-DOMAIN,v2.gdt.qq.com
-DOMAIN,ipv4.gdt.qq.com
-DOMAIN,ipv6.gdt.qq.com
-DOMAIN,mi.gdt.qq.com
-DOMAIN,canvas.gdt.qq.com
