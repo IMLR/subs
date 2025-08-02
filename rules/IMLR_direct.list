@@ -20,5 +20,6 @@ DOMAIN,image.baidu.com
 DOMAIN,cn.ifn.watch
 DOMAIN,bttreleases.llo.ai
 DOMAIN-KEYWORD,joiningss.com
+DOMAIN-SUFFIX,lcs-cops.adobe.io
 IP-CIDR,144.34.213.34/32,no-resolve
 IP-CIDR,23.53.228.33/32,no-resolve
