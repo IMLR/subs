@@ -165,6 +165,7 @@ DOMAIN-SUFFIX,video2.51daao.com
 DOMAIN-SUFFIX,siwazywcdn2.com
 DOMAIN-SUFFIX,javday.space
 DOMAIN,ads.google.com
+DOMAIN,app-analytics-services.com
 IP-CIDR,85.17.73.31/32,no-resolve
 IP-CIDR,113.96.210.18/32,no-resolve
 IP-CIDR,162.244.52.54/32,no-resolve
