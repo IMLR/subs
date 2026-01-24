@@ -166,6 +166,7 @@ DOMAIN-SUFFIX,siwazywcdn2.com
 DOMAIN-SUFFIX,javday.space
 DOMAIN,ads.google.com
 DOMAIN,app-analytics-services.com
+DOMAIN,adwords.google.com
 DOMAIN,tpc.googlesyndication.com
 IP-CIDR,85.17.73.31/32,no-resolve
 IP-CIDR,113.96.210.18/32,no-resolve
