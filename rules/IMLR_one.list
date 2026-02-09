@@ -20,4 +20,5 @@ DOMAIN-KEYWORD,s19-e1
 DOMAIN-KEYWORD,s20-e1
 DOMAIN-KEYWORD,-e1
 DOMAIN-KEYWORD,pipecdn
-DOMAIN,ifn.watch
+DOMAIN-SUFFIX,ifn.watch
+DOMAIN,vod.infiniteapi.com
