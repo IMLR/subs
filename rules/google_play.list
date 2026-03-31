@@ -2,4 +2,5 @@ DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,play.googleapis.com
 DOMAIN-SUFFIX,android.clients.google.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-pDOMAIN-SUFFIX,play-fe.googleapis.com
+DOMAIN-SUFFIX,play-fe.googleapis.com
+DOMAIN-SUFFIX,play-lh.googleapis.com
